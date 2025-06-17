@@ -1,4 +1,4 @@
-public class DataExample {
+public class DataExample01 {
 	public static void main(String[] args) {
 		//변수 생성 방법
 
