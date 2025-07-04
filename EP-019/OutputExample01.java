@@ -1,4 +1,4 @@
-public class DataExample08 {
+public class OutputExample01 {
     public static void main(String[] args) {
         //표준 출력 명령
         //- System.out을 이용해서 메세지를 결과화면에 출력하는 명령
